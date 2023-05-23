@@ -29,7 +29,7 @@ public class EcuacionCuadraticaFormulario extends JFrame {
         add(lblCoeficienteA);
 
         txtCoeficienteA = new JTextField();
-        txtCoeficienteA.setBounds(120, 20, 150, 25);
+        txtCoeficienteA.setBounds(100, 20, 70, 25);
         add(txtCoeficienteA);
 
         lblCoeficienteB = new JLabel("Coeficiente B:");
